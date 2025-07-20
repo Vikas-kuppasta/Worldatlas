@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "fact": "Japan has more pets than children."
+  },
+  {
+    "id":2,
+    "country": "Canada",
+    "capital": "Ottawa",
+    "population": "38 million",
+    "fact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id":3,
+    "country": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "fact": "Brazil is home to the Amazon Rainforest."
+  },
+  {
+    "id":4,
+    "country": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "fact": "India is the world's largest democracy."
+  },
+  {
+    "id":5,
+    "country": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "fact": "Australia has more kangaroos than people."
+  },
+  {
+    "id":6,
+    "country": "Germany",
+    "capital": "Berlin",
+    "population": "83 million",
+    "fact": "Germany is known for its Autobahn highways."
+  },
+  {
+    "id":7,
+    "country": "Egypt",
+    "capital": "Cairo",
+    "population": "111 million",
+    "fact": "Egypt is home to the only remaining ancient wonder: the Great Pyramid."
+  },
+  {
+    "id":8,
+    "country": "South Korea",
+    "capital": "Seoul",
+    "population": "52 million",
+    "fact": "South Korea has the fastest internet in the world."
+  },
+  {
+    "id":9,
+    "country": "Finland",
+    "capital": "Helsinki",
+    "population": "5.5 million",
+    "fact": "Finland has been ranked the happiest country in the world."
+  }
+]
